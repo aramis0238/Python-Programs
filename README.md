@@ -2,7 +2,8 @@
 This program was developed to automate the creation of a daily report, both for the morning reports and the afternoon reports. 
 
 AM: The program would read all Excel files (xlsx) in a directory selected by the user. Then remove certain rows based on programmed conditions. 
-The remaining rows would be added to a new sheet and reorganized, adding a grand total row and creating a pivot table with this new information.
+The remaining rows would be added to a new sheet and reorganized, adding a grand total row and creating a pivot table with this new information. 
+New file would be dumped into output folder.
 
 PM: The program would read all Excel files (xlsx) in a directory selected by the user. The first sheet was copied, then first sheet and copy were renamed.
 Rows with programmed conditions would be dropped from the copy sheet then sheet would be sorted by first column. While getting information from another excel sheet, 
