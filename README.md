@@ -1,2 +1,2 @@
 # Python-Programs
-This is a repository showcasing my most pivotal work in the Python language.
+This is a repository showcasing my most pivotal work so far in the Python language.
