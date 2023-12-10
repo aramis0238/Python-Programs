@@ -1,3 +1,3 @@
-# Python-Programs
-This is a repository showcasing my most pivotal work so far in the Python language.
-(See branches of this repository for the different programs)
+E-portal scraper
+This program was made for a law firm, it retrieved the most recent client portfolios uploaded to a particular site,
+then download those portfolios as a pdf file to a local folder for them.
